@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="176.5" fov="86" tilt="-38"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-96.190833" latitude="17.971111"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Zona B-I-J" target="177.5/-44.5/65" pan="-144.705" skinid="" url="{node2}" id="Point01" tilt="-24.4699"/>
+      <hotspot title="Zona A-B" target="166.5/-78/65" pan="-159.131" skinid="" url="{node3}" id="Point02" tilt="-10.8662"/>
+      <hotspot title="Potrero Inicio" target="" pan="83.2103" skinid="" url="{node5}" id="Point03" tilt="-9.586220000000001"/>
+      <hotspot title="Casco" target="113/-69.5/84" pan="71.8391" skinid="" url="{node4}" id="Point04" tilt="-5.40206"/>
+      <hotspot title="Potrero dentro" target="92/-56/96" pan="78.8231" skinid="" url="{node5}" id="Point05" tilt="-6.22918"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Giro1_Cand_3_o_0.jpg" tile5url="images/Giro1_Cand_3_o_5.jpg" tilesize="1500" tile4url="images/Giro1_Cand_3_o_4.jpg" tile3url="images/Giro1_Cand_3_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Giro1_Cand_3_o_2.jpg" tile1url="images/Giro1_Cand_3_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="172" fov="70" tilt="-42.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-96.192222" latitude="17.971667"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Zona D-E-F" target="350.5/-54.5/81" pan="41.3679" skinid="" url="{node1}" id="Point01" tilt="-32.7608"/>
+      <hotspot title="Zona A-B" target="174.5/-68/81" pan="-164.143" skinid="" url="{node3}" id="Point02" tilt="-22.494"/>
+      <hotspot title="Potrero Inicio" target="327.5/-45.5/89" pan="86.5305" skinid="" url="{node6}" id="Point03" tilt="-8.51526"/>
+      <hotspot title="Casco" target="57.5/-66/83" pan="75.889" skinid="" url="{node4}" id="Point04" tilt="-5.32838"/>
+      <hotspot title="Potrero dentro" target="94.5/-39/85" pan="83.22150000000001" skinid="" url="{node5}" id="Point05" tilt="-3.38497"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Giro2_Cand_3_o_0.jpg" tile5url="images/Giro2_Cand_3_o_5.jpg" tilesize="1500" tile4url="images/Giro2_Cand_3_o_4.jpg" tile3url="images/Giro2_Cand_3_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Giro2_Cand_3_o_2.jpg" tile1url="images/Giro2_Cand_3_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="63" fov="70" tilt="-39"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-96.193056" latitude="17.973056"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Zona D-E-F" target="349.5/-55/83" pan="50.139" skinid="" url="{node1}" id="Point01" tilt="-15.3498"/>
+      <hotspot title="Zona B-I-J" target="24/-48.5/76" pan="45.4552" skinid="" url="{node2}" id="Point02" tilt="-24.0429"/>
+      <hotspot title="Potrero inicio" target="322.5/-47/75" pan="91.3403" skinid="" url="{node6}" id="Point03" tilt="-8.71194"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Giro3_Cand_3_o_0.jpg" tile5url="images/Giro3_Cand_3_o_5.jpg" tilesize="1500" tile4url="images/Giro3_Cand_3_o_4.jpg" tile3url="images/Giro3_Cand_3_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Giro3_Cand_3_o_2.jpg" tile1url="images/Giro3_Cand_3_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="98" fov="92" tilt="-71"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-96.184167" latitude="17.971944"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Zona B-I-J" target="212.5/-47/74" pan="-133.809" skinid="" url="{node2}" id="Point01" tilt="-8.318149999999999"/>
+      <hotspot title="Zona D-E-F" target="201.5/-33.5/65" pan="-127.358" skinid="" url="{node1}" id="Point02" tilt="-9.70328"/>
+      <hotspot title="Potrero inicio" target="338.5/-57/84" pan="-149.862" skinid="" url="{node6}" id="Point03" tilt="-25.321"/>
+      <hotspot title="Potrero dentro" target="148/-54/75" pan="149.696" skinid="" url="{node5}" id="Point04" tilt="-33.0642"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Giro4_Cand_3_o_0.jpg" tile5url="images/Giro4_Cand_3_o_5.jpg" tilesize="1500" tile4url="images/Giro4_Cand_3_o_4.jpg" tile3url="images/Giro4_Cand_3_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Giro4_Cand_3_o_2.jpg" tile1url="images/Giro4_Cand_3_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="94" fov="70" tilt="-36"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-96.184722" latitude="17.973333"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Casco" target="52/-67.5/81" pan="80.9721" skinid="" url="{node4}" id="Point01" tilt="-19.039"/>
+      <hotspot title="Potrero inicio" target="310.5/-30.5/79" pan="-7.17222" skinid="" url="{node6}" id="Point02" tilt="-21.2834"/>
+      <hotspot title="Huerta" target="177.5/-49/65" pan="-11.6663" skinid="" url="{node2}" id="Point03" tilt="-6.67081"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Giro5_Cand_3_o_0.jpg" tile5url="images/Giro5_Cand_3_o_5.jpg" tilesize="1500" tile4url="images/Giro5_Cand_3_o_4.jpg" tile3url="images/Giro5_Cand_3_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Giro5_Cand_3_o_2.jpg" tile1url="images/Giro5_Cand_3_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="338.5" fov="70" tilt="-30"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-96.185556" latitude="17.972778"/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Potreo dentro" target="146/-49/74" pan="0.42605" skinid="" url="{node5}" id="Point01" tilt="-23.5577"/>
+      <hotspot title="Casco" target="116/-50.5/79" pan="-52.9691" skinid="" url="{node4}" id="Point02" tilt="-13.921"/>
+      <hotspot title="Huerta" target="182.5/-44/83" pan="171.871" skinid="" url="{node2}" id="Point03" tilt="-8.974629999999999"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Giro6_Cand_3_o_0.jpg" tile5url="images/Giro6_Cand_3_o_5.jpg" tilesize="1500" tile4url="images/Giro6_Cand_3_o_4.jpg" tile3url="images/Giro6_Cand_3_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Giro6_Cand_3_o_2.jpg" tile1url="images/Giro6_Cand_3_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
